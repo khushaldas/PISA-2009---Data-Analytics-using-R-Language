@@ -1,10 +1,6 @@
 
-#Group Leader: khushal Das
-#Group Members: Adil Rehman and Sohaima Inam
-
-#Group Assignment 01 
-
-
+#By: khushal Das
+#khushaldasparmar@gmail.com
 
 #installing dplyr
 install.packages("dplyr")
